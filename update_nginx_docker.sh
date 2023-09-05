@@ -1,0 +1,1 @@
+curl -o ./Dockerfile.alpine https://raw.githubusercontent.com/nginxinc/docker-nginx/master/modules/Dockerfile.alpine
